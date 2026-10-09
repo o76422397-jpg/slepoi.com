@@ -16,5 +16,5 @@
 app.py — главный код сайта requirements.txt — список библиотек, которые нужны README.md — этот файл с описанием
 
 Как запустить:
-pip install -r requirements.txt streamlit run app.py
+py -m streamit run app.py
 Авторы: Оля Ермолович, Богдан Курилюк, Влад Бевзенко, группа H4411
